@@ -164,5 +164,8 @@
       }
     }
   },
-  "defaultProject": "librarydemo"
+  "defaultProject": "librarydemo",
+  "cli": {
+    "analytics": false
+  }
 }
